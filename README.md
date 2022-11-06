@@ -1,2 +1,2 @@
 # prework-study-guide
-a study guide for repository
+a study guide for repository.
