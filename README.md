@@ -3,20 +3,21 @@ a study guide for repository.
 # <Prework Study Guide webpage>
 
 ## Description
-prework study guide helps me to get ready for the course. The prework will provide all the information and skills to begin the course. it helps improving technical skills and helps to start thinking and learning like a coding professional. Prework study guide helps to learn foundational skills, mindsets, and technologies that all web developers use. making this webpage also gives the opportunities to practice the habits and tasks that web developers complete every day. during making this webpage we learned about different languages like HTML, CSS,Git, JavaScript. This webpage helps to get all the information at one place 
+prework study guide helps to get ready for the course. The prework  webpage provide all the information and skills to begin the course. it helps improving technical skills and helps to start thinking and learning like a coding professional. Prework study guide helps to learn foundational skills, mindsets, and technologies that all web developers use. making this webpage also gives the opportunities to practice the habits and tasks that web developers complete every day. during making this webpage we learned about different languages like HTML, CSS,Git, JavaScript. This webpage helps to get all the information at one place.
 
 
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
+  N/A
 - [Usage](#usage)
-   prework study guid  contains notes about different languages like HTML, CSS, Git, JavaScript. prework helps to review how HTML structures a page,also describe different elements and body of HTML document. we learn how to save our changes with Git and pushed up to GitHub. 
+   prework study guide contains notes about different languages like HTML, CSS, Git, JavaScript. prework helps to review how HTML structures a page,also describe different elements and body of HTML document. we learn how to save our changes with Git and pushed up to GitHub. 
    Learning CSS we learn to style our webpage. There are three styles: inline CSS, internal CSS style sheets and external style CSS sheets. 
    JavaScript  allows user to interact with website.
-   Git is aversion control system that helps you manage and keep track of each version of your project. To access Git, we use command line. 
+   
+   Git is a version control system that helps you manage and keep track of each version of your project. To access Git, we use command line. 
 
 - [License](#license)
 
